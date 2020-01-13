@@ -17,6 +17,8 @@ build
 node_modules/
 config.js
 client_config.js
+.vscode
+.stryker-tmp
 
 # Ignore all CSS files that are copied using Grunt, but dont ignore the ones that are created manually
 public/css/bootstrap*

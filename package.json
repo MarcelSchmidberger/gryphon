@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "prepare": "patch-package"
+    "prepare": "patch-package",
+    "test": "jest"
   },
   "dependencies": {
     "babel-preset-react": "^6.1.18",
